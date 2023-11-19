@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeaMention", "TeaMention\TeaMention.csproj", "{3B26E57B-4D1E-46DA-85F7-A7E7DA59C920}"
 EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{4DEFFBAE-BC93-4375-AB77-C63518FA0E91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3B26E57B-4D1E-46DA-85F7-A7E7DA59C920}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B26E57B-4D1E-46DA-85F7-A7E7DA59C920}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B26E57B-4D1E-46DA-85F7-A7E7DA59C920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DEFFBAE-BC93-4375-AB77-C63518FA0E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEFFBAE-BC93-4375-AB77-C63518FA0E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEFFBAE-BC93-4375-AB77-C63518FA0E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEFFBAE-BC93-4375-AB77-C63518FA0E91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

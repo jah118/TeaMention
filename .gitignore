@@ -396,3 +396,9 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio
+TeaMention/gitea/ssh/ssh_host_ecdsa_key
+TeaMention/gitea/ssh/ssh_host_ecdsa_key.pub
+TeaMention/gitea/ssh/ssh_host_ed25519_key
+TeaMention/gitea/ssh/ssh_host_ed25519_key.pub
+TeaMention/gitea/ssh/ssh_host_rsa_key
+TeaMention/gitea/ssh/ssh_host_rsa_key.pub
